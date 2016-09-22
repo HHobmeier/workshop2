@@ -1,0 +1,63 @@
+---
+title: "git_01"
+author: "Heather Hobmeier"
+date: "Sept 14, 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Build a Poem with commits
+Our project will be done using a sequence of save and commits.
+
+## First Verse 
+Twas brilling, and the slitghy toves                        
+Did gyre and gimble in the wabe                           
+Allmimsy were the borogoves,                             
+Ans the mome raths outgrambe                               
+  
+Beware the Jabberwock, my son                           
+The jaws that bite, the claws that catch                   
+Beware the Jubjub bird, and shun                           
+The frumious Bandersnatch                                
+
+## Second Verse
+Two roads diverged in a yellow wood,                      
+And sorry I could not travel both                          
+And be one traveler, long I stood                         
+And looked down one as far as I could                      
+To where it bent in the undergrowth;                        
+
+Then took the other, as just as fair,                        
+And having perhaps the better claim,                        
+Because it was grassy and wanted wear;                      
+Though as for that the passing there                       
+Had worn them really about the same                        
+
+## Third Verse
+The sun was shining on the sea,                            
+      Shining with all his might:                          
+He did his very best to make                               
+      The billows smooth and bright —                      
+And this was odd, because it was                            
+      The middle of the night.                            
+
+The moon was shining sulkily,                          
+      Because she thought the sun                           
+Had got no business to be there                            
+      After the day was done —                              
+"It's very rude of him," she said,                    
+      "To come and spoil the fun                          
+
+## Last Verse
+When you lay awake in bed at night,                     
+trying to give yourself over to sleep..                   
+Yet, your mind refuses                                  
+to give into the darkness                               
+Surrounding and consuming all in its path                 
+    
+It shoots bits of light out                           
+In form or imagination                                
+Memories                                        
+And What-ifs.                                          
